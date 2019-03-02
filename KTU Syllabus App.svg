@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="90mm"
+   height="160mm"
+   viewBox="0 0 90 160"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="KTU Syllabus App.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient846">
+      <stop
+         style="stop-color:#007fff;stop-opacity:1;"
+         offset="0"
+         id="stop842" />
+      <stop
+         style="stop-color:#00b9ff;stop-opacity:1"
+         offset="1"
+         id="stop844" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient846"
+       id="linearGradient848"
+       x1="243.7498"
+       y1="88.52977"
+       x2="196.52245"
+       y2="88.505783"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0056512,0,0,0.79934996,-172.02204,82.610574)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient846"
+       id="linearGradient963"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.46201389,0,0,0.46201389,35.316154,89.348064)"
+       x1="29.560009"
+       y1="201.02351"
+       x2="5.953125"
+       y2="200.64934" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient846"
+       id="linearGradient993"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0059405,0,0,0.38651398,-172.08447,254.72235)"
+       x1="243.7498"
+       y1="88.52977"
+       x2="196.52245"
+       y2="88.505783" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient846"
+       id="linearGradient1021"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.46201389,0,0,0.46201389,35.316154,89.348064)"
+       x1="29.560009"
+       y1="201.02351"
+       x2="5.953125"
+       y2="200.64934" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient846"
+       id="linearGradient1031"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.46201389,0,0,0.46201389,35.316154,89.348064)"
+       x1="29.560009"
+       y1="201.02351"
+       x2="5.953125"
+       y2="200.64934" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient846"
+       id="linearGradient1057"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.46201389,0,0,0.46201389,35.316154,89.348064)"
+       x1="29.560009"
+       y1="201.02351"
+       x2="5.953125"
+       y2="200.64934" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient846"
+       id="linearGradient1059"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.46201389,0,0,0.46201389,35.316154,89.348064)"
+       x1="29.560009"
+       y1="201.02351"
+       x2="5.953125"
+       y2="200.64934" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient846"
+       id="linearGradient1061"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.46201389,0,0,0.46201389,35.316154,89.348064)"
+       x1="29.560009"
+       y1="201.02351"
+       x2="5.953125"
+       y2="200.64934" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient846"
+       id="linearGradient1087"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.46201389,0,0,0.46201389,35.316154,89.348064)"
+       x1="29.560009"
+       y1="201.02351"
+       x2="5.953125"
+       y2="200.64934" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient846"
+       id="linearGradient1089"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.46201389,0,0,0.46201389,35.316154,89.348064)"
+       x1="29.560009"
+       y1="201.02351"
+       x2="5.953125"
+       y2="200.64934" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient846"
+       id="linearGradient1091"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.46201389,0,0,0.46201389,35.316154,89.348064)"
+       x1="29.560009"
+       y1="201.02351"
+       x2="5.953125"
+       y2="200.64934" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient846"
+       id="linearGradient1099"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.87463725,0,0,0.38566669,-143.7489,234.56369)"
+       x1="243.7498"
+       y1="88.52977"
+       x2="196.52245"
+       y2="88.505783" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="113.13536"
+     inkscape:cy="337.59773"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="44.996884,173.90448"
+       orientation="1,0"
+       id="guide869"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="5.953125,120.38542"
+       orientation="1,0"
+       id="guide879"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="84.137502,131.7625"
+       orientation="1,0"
+       id="guide881"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="5.9531252,153.9272"
+       orientation="0,1"
+       id="guide883"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-137)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.50798476;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect826"
+       width="90"
+       height="160"
+       x="4.1455078e-06"
+       y="137" />
+    <path
+       style="fill:url(#linearGradient848);fill-opacity:1;stroke:none;stroke-width:0.23722181px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,136.97658 h 90 v 33.36453 H 0 Z"
+       id="path840"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.39748403;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect871"
+       width="60.93745"
+       height="8.2853556"
+       x="14.516927"
+       y="153.19041"
+       ry="4.1426778" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.66264224px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.09156606"
+       x="23.856678"
+       y="145.57608"
+       id="text875"><tspan
+         sodipodi:role="line"
+         id="tspan873"
+         x="23.856678"
+         y="145.57608"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0.79374999px;fill:#ffffff;stroke-width:0.09156606">KTU COMPANION</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.33424985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect877"
+       width="4.887692"
+       height="0.45924622"
+       x="5.953125"
+       y="143.0728" />
+    <rect
+       y="143.96671"
+       x="5.953125"
+       height="0.45924622"
+       width="4.887692"
+       id="rect885"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.33424985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.33424985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect887"
+       width="4.887692"
+       height="0.45924622"
+       x="5.953125"
+       y="144.84419" />
+    <g
+       id="g1011"
+       transform="matrix(1.1300079,0,0,1.1300079,-5.8863468,-23.961414)">
+      <rect
+         ry="6.9302077"
+         y="174.32202"
+         x="38.066578"
+         height="13.860415"
+         width="13.860415"
+         id="rect957"
+         style="opacity:1;fill:url(#linearGradient963);fill-opacity:1;stroke:none;stroke-width:0.2300813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text977"
+         y="191.71611"
+         x="44.996681"
+         style="font-style:normal;font-weight:normal;font-size:1.56052232px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#006eff;fill-opacity:1;stroke:none;stroke-width:0.03901306"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;letter-spacing:0.079375px;text-anchor:middle;fill:#006eff;fill-opacity:1;stroke-width:0.03901306"
+           y="191.71611"
+           x="45.036369"
+           id="tspan975"
+           sodipodi:role="line">KTU COMPANION</tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path991"
+       d="M -0.01294463,281.01024 H 90.012945 v 16.13293 H -0.01294463 Z"
+       style="fill:url(#linearGradient993);fill-opacity:1;stroke:none;stroke-width:0.16497995px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       id="g1019"
+       transform="matrix(1.1300079,0,0,1.1300079,-32.947042,-23.961414)">
+      <rect
+         style="opacity:1;fill:url(#linearGradient1021);fill-opacity:1;stroke:none;stroke-width:0.2300813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1013"
+         width="13.860415"
+         height="13.860415"
+         x="38.066578"
+         y="174.32202"
+         ry="6.9302077" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:1.56052232px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#006eff;fill-opacity:1;stroke:none;stroke-width:0.03901306"
+         x="44.996681"
+         y="191.71611"
+         id="text1017"><tspan
+           sodipodi:role="line"
+           id="tspan1015"
+           x="45.036369"
+           y="191.71611"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;letter-spacing:0.079375px;text-anchor:middle;fill:#006eff;fill-opacity:1;stroke-width:0.03901306">KTU COMPANION</tspan></text>
+    </g>
+    <g
+       transform="matrix(1.1300079,0,0,1.1300079,21.808581,-23.961414)"
+       id="g1029">
+      <rect
+         ry="6.9302077"
+         y="174.32202"
+         x="38.066578"
+         height="13.860415"
+         width="13.860415"
+         id="rect1023"
+         style="opacity:1;fill:url(#linearGradient1031);fill-opacity:1;stroke:none;stroke-width:0.2300813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1027"
+         y="191.71611"
+         x="44.996681"
+         style="font-style:normal;font-weight:normal;font-size:1.56052232px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#006eff;fill-opacity:1;stroke:none;stroke-width:0.03901306"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;letter-spacing:0.079375px;text-anchor:middle;fill:#006eff;fill-opacity:1;stroke-width:0.03901306"
+           y="191.71611"
+           x="45.036369"
+           id="tspan1025"
+           sodipodi:role="line">KTU COMPANION</tspan></text>
+    </g>
+    <g
+       id="g1039"
+       transform="matrix(1.1300079,0,0,1.1300079,-5.8863468,0.07941644)">
+      <rect
+         style="opacity:1;fill:url(#linearGradient1057);fill-opacity:1;stroke:none;stroke-width:0.2300813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1033"
+         width="13.860415"
+         height="13.860415"
+         x="38.066578"
+         y="174.32202"
+         ry="6.9302077" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:1.56052232px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#006eff;fill-opacity:1;stroke:none;stroke-width:0.03901306"
+         x="44.996681"
+         y="191.71611"
+         id="text1037"><tspan
+           sodipodi:role="line"
+           id="tspan1035"
+           x="45.036369"
+           y="191.71611"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;letter-spacing:0.079375px;text-anchor:middle;fill:#006eff;fill-opacity:1;stroke-width:0.03901306">KTU COMPANION</tspan></text>
+    </g>
+    <g
+       transform="matrix(1.1300079,0,0,1.1300079,-32.947042,0.07941644)"
+       id="g1047">
+      <rect
+         ry="6.9302077"
+         y="174.32202"
+         x="38.066578"
+         height="13.860415"
+         width="13.860415"
+         id="rect1041"
+         style="opacity:1;fill:url(#linearGradient1059);fill-opacity:1;stroke:none;stroke-width:0.2300813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1045"
+         y="191.71611"
+         x="44.996681"
+         style="font-style:normal;font-weight:normal;font-size:1.56052232px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#006eff;fill-opacity:1;stroke:none;stroke-width:0.03901306"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;letter-spacing:0.079375px;text-anchor:middle;fill:#006eff;fill-opacity:1;stroke-width:0.03901306"
+           y="191.71611"
+           x="45.036369"
+           id="tspan1043"
+           sodipodi:role="line">KTU COMPANION</tspan></text>
+    </g>
+    <g
+       id="g1055"
+       transform="matrix(1.1300079,0,0,1.1300079,21.808581,0.07941644)">
+      <rect
+         style="opacity:1;fill:url(#linearGradient1061);fill-opacity:1;stroke:none;stroke-width:0.2300813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1049"
+         width="13.860415"
+         height="13.860415"
+         x="38.066578"
+         y="174.32202"
+         ry="6.9302077" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:1.56052232px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#006eff;fill-opacity:1;stroke:none;stroke-width:0.03901306"
+         x="44.996681"
+         y="191.71611"
+         id="text1053"><tspan
+           sodipodi:role="line"
+           id="tspan1051"
+           x="45.036369"
+           y="191.71611"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;letter-spacing:0.079375px;text-anchor:middle;fill:#006eff;fill-opacity:1;stroke-width:0.03901306">KTU COMPANION</tspan></text>
+    </g>
+    <g
+       transform="matrix(1.1300079,0,0,1.1300079,-5.8863468,24.923398)"
+       id="g1069">
+      <rect
+         ry="6.9302077"
+         y="174.32202"
+         x="38.066578"
+         height="13.860415"
+         width="13.860415"
+         id="rect1063"
+         style="opacity:1;fill:url(#linearGradient1087);fill-opacity:1;stroke:none;stroke-width:0.2300813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1067"
+         y="191.71611"
+         x="44.996681"
+         style="font-style:normal;font-weight:normal;font-size:1.56052232px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#006eff;fill-opacity:1;stroke:none;stroke-width:0.03901306"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;letter-spacing:0.079375px;text-anchor:middle;fill:#006eff;fill-opacity:1;stroke-width:0.03901306"
+           y="191.71611"
+           x="45.036369"
+           id="tspan1065"
+           sodipodi:role="line">KTU COMPANION</tspan></text>
+    </g>
+    <g
+       id="g1077"
+       transform="matrix(1.1300079,0,0,1.1300079,-32.947042,24.923398)">
+      <rect
+         style="opacity:1;fill:url(#linearGradient1089);fill-opacity:1;stroke:none;stroke-width:0.2300813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1071"
+         width="13.860415"
+         height="13.860415"
+         x="38.066578"
+         y="174.32202"
+         ry="6.9302077" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:1.56052232px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#006eff;fill-opacity:1;stroke:none;stroke-width:0.03901306"
+         x="44.996681"
+         y="191.71611"
+         id="text1075"><tspan
+           sodipodi:role="line"
+           id="tspan1073"
+           x="45.036369"
+           y="191.71611"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;letter-spacing:0.079375px;text-anchor:middle;fill:#006eff;fill-opacity:1;stroke-width:0.03901306">KTU COMPANION</tspan></text>
+    </g>
+    <g
+       transform="matrix(1.1300079,0,0,1.1300079,21.808581,24.923398)"
+       id="g1085">
+      <rect
+         ry="6.9302077"
+         y="174.32202"
+         x="38.066578"
+         height="13.860415"
+         width="13.860415"
+         id="rect1079"
+         style="opacity:1;fill:url(#linearGradient1091);fill-opacity:1;stroke:none;stroke-width:0.2300813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1083"
+         y="191.71611"
+         x="44.996681"
+         style="font-style:normal;font-weight:normal;font-size:1.56052232px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#006eff;fill-opacity:1;stroke:none;stroke-width:0.03901306"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;letter-spacing:0.079375px;text-anchor:middle;fill:#006eff;fill-opacity:1;stroke-width:0.03901306"
+           y="191.71611"
+           x="45.036369"
+           id="tspan1081"
+           sodipodi:role="line">KTU COMPANION</tspan></text>
+    </g>
+    <text
+       id="text1095"
+       y="290.56778"
+       x="44.580715"
+       style="font-style:normal;font-weight:normal;font-size:3.66264224px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.09156606"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;letter-spacing:0.79374999px;text-anchor:middle;fill:#ffffff;stroke-width:0.09156606"
+         y="290.56778"
+         x="44.977589"
+         id="tspan1093"
+         sodipodi:role="line">GOOGLE AD BANNER</tspan></text>
+    <path
+       style="fill:url(#linearGradient1099);fill-opacity:1;stroke:none;stroke-width:0.15366766px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 5.8624984,260.79395 H 84.137502 v 16.09756 H 5.8624984 Z"
+       id="path1097"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.66264224px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.09156606"
+       x="44.580715"
+       y="269.93027"
+       id="text1103"><tspan
+         sodipodi:role="line"
+         id="tspan1101"
+         x="44.977592"
+         y="269.93027"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;letter-spacing:0.79374999px;text-anchor:middle;fill:#ffffff;stroke-width:0.09156606">KTU LOGIN</tspan></text>
+  </g>
+</svg>
